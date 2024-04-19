@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [portfolio](https://github.com/Domenico-lel/portfolio)
 
-- 🌱 I’m currently learning **vuejs**
+- 🌱 I’m currently learning **angular**
 
 - 👯 I’m looking to collaborate on [DeliveBoo](https://github.com/Pepesalezucchero/DeliveBoo)
 
