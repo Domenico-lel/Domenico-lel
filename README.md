@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [portfolio](https://github.com/Domenico-lel/portfolio)
 
-- 🌱 I’m currently learning **angular**
+- 🌱 I’m currently learning **Javascript**
 
 - 📫 How to reach me **domenicolella2@gmail.com**
 
