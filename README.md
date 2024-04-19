@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **angular**
 
-- 👯 I’m looking to collaborate on [DeliveBoo](https://github.com/Pepesalezucchero/DeliveBoo)
-
 - 📫 How to reach me **domenicolella2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
