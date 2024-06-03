@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=domenico-lel&label=Profile%20views&color=0e75b6&style=flat" alt="domenico-lel" /> </p>
 
-- 🔭 I’m currently working on [portfolio](https://github.com/Domenico-lel/portfolio)
+- 🔭 I’m currently working on [TodoList App](https://github.com/Domenico-lel/tutorial)
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **React.js**
 
 - 📫 How to reach me **domenicolella2@gmail.com**
 
