@@ -49,11 +49,10 @@
 <hr>
 <br>
 
-<h3 align="center">🏆 GitHub Analytics</h3>
+<h3 align="center">📈 GitHub Activity</h3>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=domenico-lel&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=domenico-lel&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=domenico-lel&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br>
