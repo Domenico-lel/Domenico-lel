@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=domenico-lel&label=Profile%20views&color=0e75b6&style=flat" alt="domenico-lel views" /> </p>
 
-- 🔭 **Currently building:** Advanced web applications, including *Soccer Dink Club* and interactive management simulators.
+- 🔭 **Currently building:** Advanced web applications, including *Fanta Soccer Club* and interactive management simulators.
 - ⚡ **Workflow of choice:** **Vibe Coding** – leveraging Agentic IDEs to translate architecture directly into production-ready apps with minimal boilerplate.
 - 🧠 **Currently exploring:** Local AI orchestration (Ollama, Qwen2.5-Coder), autonomous agents (Cline, Open Interpreter), and next-gen tools like Google Antigravity & Claude Code.
 - 🎨 **Design philosophy:** Professional, minimalist UI/UX tailored for seamless user experiences.
