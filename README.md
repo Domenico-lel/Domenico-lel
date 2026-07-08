@@ -52,14 +52,8 @@
 <h3 align="center">🏆 GitHub Analytics</h3>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=domenico-lel&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15" alt="Trophies" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=domenico-lel&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=domenico-lel&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=domenico-lel&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="48%" alt="Top Languages" />
 </div>
 
 <br>
