@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Building+Soccer+Dink+Club;Orchestrating+Local+AI+%26+Agents;Vibe+Coding+Enthusiast;Minimalist+UI%2FUX+Architecture" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Building+Fanta+Soccer+Club;Orchestrating+Local+AI+%26+Agents;Vibe+Coding+Enthusiast;Minimalist+UI%2FUX+Architecture" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -58,7 +58,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=domenico-lel&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=domenico-lel&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=domenico-lel&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
 </div>
 
